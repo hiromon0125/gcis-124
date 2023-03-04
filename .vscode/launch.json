@@ -1,0 +1,140 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Pokédex",
+			"request": "launch",
+			"mainClass": "unit06.assignment1.Pokédex",
+			"projectName": "unit06"
+		},
+		{
+			"type": "java",
+			"name": "Launch Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Launch HelloWorld",
+			"request": "launch",
+			"mainClass": "unit00.HelloWorld",
+			"projectName": "unit00"
+		},
+		{
+			"type": "java",
+			"name": "Launch Arithmetic",
+			"request": "launch",
+			"mainClass": "unit01.Arithmetic",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Base10Converter",
+			"request": "launch",
+			"mainClass": "unit01.Base10Converter",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Basics",
+			"request": "launch",
+			"mainClass": "unit01.Basics",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Calculon",
+			"request": "launch",
+			"mainClass": "unit01.Calculon",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Casting",
+			"request": "launch",
+			"mainClass": "unit01.Casting",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch CountUp",
+			"request": "launch",
+			"mainClass": "unit01.CountUp",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Files",
+			"request": "launch",
+			"mainClass": "unit01.Files",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Hello",
+			"request": "launch",
+			"mainClass": "unit01.Hello",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch HelloWorld(1)",
+			"request": "launch",
+			"mainClass": "unit01.HelloWorld",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch IterativeFib",
+			"request": "launch",
+			"mainClass": "unit01.IterativeFib",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Log",
+			"request": "launch",
+			"mainClass": "unit01.Log",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Miscellany",
+			"request": "launch",
+			"mainClass": "unit01.Miscellany",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Primitives",
+			"request": "launch",
+			"mainClass": "unit01.Primitives",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Scanning",
+			"request": "launch",
+			"mainClass": "unit01.Scanning",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch Strings",
+			"request": "launch",
+			"mainClass": "unit01.Strings",
+			"projectName": "unit01"
+		},
+		{
+			"type": "java",
+			"name": "Launch TextEdit",
+			"request": "launch",
+			"mainClass": "unit01.TextEdit",
+			"projectName": "unit01"
+		}
+	]
+}
